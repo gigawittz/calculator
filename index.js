@@ -2,8 +2,8 @@ document.body.style.backgroundColor="#2c3e50";
 document.body.style.textAlign="center";
 document.body.innerHTML=`<h1 style="font-family:cursive;diplay:"flex";padding:20px;margin:40px auto;">Calculator</h1>
 <div id="base" style="padding:20px;margin:30px backgroundColor:"Teal";display:flex;">
-<input type="number" id="num1"style="padding:20px;margin:30px backgroundColor:"Teal";diplay:"flex";"><hr>
-<input type="number" id="num2"style="padding:20px;margin:30px backgroundColor:"Teal";diplay:"flex";"><hr>
+<input type="number" id="num1" placeholder="Please enter number" style="padding:20px;margin:30px backgroundColor:"Teal";diplay:"flex";"><hr>
+<input type="number" id="num2"placeholder="Please enter number" style="padding:20px;margin:30px backgroundColor:"Teal";diplay:"flex";"><hr>
 <div style="display: flex; justify-content: center; gap: 10px; margin: 20px auto;">
     <button id="sum" style="padding: 10px; background-color: #f1c40f;">Add</button>
     <button id="minus" style="padding: 10px; background-color: #f1c40f;">Subtract</button>
